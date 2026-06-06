@@ -1,0 +1,73 @@
+<svg width="680" height="200" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Strings — Get Anyone on Your Side</title>
+<desc>Banner for the Strings AI communication strategy tool</desc>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#f0f0ff"/>
+    <stop offset="100%" stop-color="#e8e8ff"/>
+  </linearGradient>
+  <linearGradient id="glow1" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#6366f1" stop-opacity="0.15"/>
+    <stop offset="100%" stop-color="#818cf8" stop-opacity="0.05"/>
+  </linearGradient>
+  <linearGradient id="glow2" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#a5b4fc" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="#6366f1" stop-opacity="0.05"/>
+  </linearGradient>
+  <linearGradient id="btn" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#6366f1"/>
+    <stop offset="100%" stop-color="#818cf8"/>
+  </linearGradient>
+</defs>
+
+<rect width="680" height="200" fill="url(#bg)" rx="14"/>
+<rect width="680" height="200" fill="url(#glow1)" rx="14"/>
+
+<circle cx="600" cy="30" r="100" fill="url(#glow2)" opacity="0.9"/>
+<circle cx="80" cy="190" r="80" fill="#6366f1" opacity="0.06"/>
+<circle cx="640" cy="160" r="50" fill="#818cf8" opacity="0.08"/>
+
+<circle cx="460" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="490" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="520" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="550" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="580" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="610" cy="45" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="640" cy="45" r="2" fill="#6366f1" opacity="0.15"/>
+<circle cx="460" cy="70" r="2" fill="#6366f1" opacity="0.2"/>
+<circle cx="490" cy="70" r="2" fill="#6366f1" opacity="0.2"/>
+<circle cx="520" cy="70" r="2" fill="#6366f1" opacity="0.2"/>
+<circle cx="550" cy="70" r="2" fill="#6366f1" opacity="0.3"/>
+<circle cx="580" cy="70" r="2" fill="#6366f1" opacity="0.2"/>
+<circle cx="610" cy="70" r="2" fill="#6366f1" opacity="0.15"/>
+<circle cx="640" cy="70" r="2" fill="#6366f1" opacity="0.1"/>
+<circle cx="460" cy="95" r="2" fill="#6366f1" opacity="0.15"/>
+<circle cx="490" cy="95" r="2" fill="#6366f1" opacity="0.2"/>
+<circle cx="520" cy="95" r="2" fill="#6366f1" opacity="0.25"/>
+<circle cx="550" cy="95" r="2" fill="#6366f1" opacity="0.15"/>
+<circle cx="580" cy="95" r="2" fill="#6366f1" opacity="0.1"/>
+<circle cx="610" cy="95" r="2" fill="#6366f1" opacity="0.1"/>
+<circle cx="460" cy="120" r="2" fill="#6366f1" opacity="0.1"/>
+<circle cx="490" cy="120" r="2" fill="#6366f1" opacity="0.15"/>
+<circle cx="520" cy="120" r="2" fill="#6366f1" opacity="0.12"/>
+<circle cx="550" cy="120" r="2" fill="#6366f1" opacity="0.1"/>
+
+<line x1="490" y1="45" x2="550" y2="70" stroke="#6366f1" stroke-width="0.8" opacity="0.2"/>
+<line x1="550" y1="45" x2="490" y2="70" stroke="#6366f1" stroke-width="0.8" opacity="0.15"/>
+<line x1="520" y1="70" x2="580" y2="95" stroke="#6366f1" stroke-width="0.8" opacity="0.15"/>
+<line x1="490" y1="95" x2="550" y2="120" stroke="#6366f1" stroke-width="0.8" opacity="0.12"/>
+
+<rect x="48" y="56" width="4" height="56" rx="2" fill="#6366f1" opacity="0.85"/>
+
+<text x="64" y="97" font-family="system-ui, -apple-system, sans-serif" font-size="54" font-weight="700" fill="#1e1b4b" letter-spacing="-2.5">Strings</text>
+<text x="66" y="126" font-family="system-ui, -apple-system, sans-serif" font-size="14.5" font-weight="400" fill="#6366f1" letter-spacing="0.3">AI-powered communication strategy</text>
+<text x="66" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#6b7280">Describe your situation — get a step-by-step plan tailored to the person and your goal.</text>
+
+<rect x="66" y="162" width="128" height="30" rx="7" fill="url(#btn)"/>
+<text x="130" y="182" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#ffffff" text-anchor="middle">Try it live →</text>
+
+<rect x="206" y="162" width="116" height="30" rx="7" fill="none" stroke="#c7d2fe" stroke-width="1.2"/>
+<text x="264" y="182" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="400" fill="#6366f1" text-anchor="middle">FastAPI · Groq API</text>
+
+<rect x="0.5" y="0.5" width="679" height="199" rx="13.5" fill="none" stroke="#c7d2fe" stroke-width="1"/>
+</svg>
